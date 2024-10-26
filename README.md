@@ -6,6 +6,6 @@
   - TfIdf
 
 ## Model
-  - MultimodalNB
+  - MultinomialNB
 
 
